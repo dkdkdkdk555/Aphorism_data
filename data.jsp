@@ -36,7 +36,7 @@
 	{ "id":18, "descripK":"기회가 찾아오는 정확한 때와 장소를 알아보고 그 기회를 잡을 수 있어야 한다. 세상에 기회는 많다. 그저 손 놓고 앉아 있을 수는 없다.", "authK":"엘렌 멧칼프",
 		"descripE":"You have to recognize when the right place and the right time fuse and take advantage of that opportunity. There are plenty of opportunities out there. You can't sit back and wait.", "authE":"Ellen Metcalf", "category":"success"},
 	{ "id":19, "descripK":"우리가 어떤 형태로든 '될대로 되라지!'라고 할 때 마다 무슨 일이 생긴다.", "authK":"스텔라 테릴 만",
-		"descripE":"Every time we say, "Let there be!" in any form, something happens.", "authE":"Stella Terrill Mann", "category":"success"},
+		"descripE":"Every time we say, 'Let there be!' in any form, something happens.", "authE":"Stella Terrill Mann", "category":"success"},
 	{ "id":20, "descripK":"남에게 이기는 방법의 하나는 예의범절로 이기는 것이다.", "authK":"조쉬 빌링스",
 		"descripE":"One of the greatest victories you can gain over someone is to beat him at politeness.", "authE":"Josh Billings", "category":"success"},
 	{ "id":21, "descripK":"친구라면 친구의 결점을 참고 견뎌야 한다.", "authK":"윌리엄 셰익스피어",
@@ -44,7 +44,7 @@
 	{ "id":22, "descripK":"친구는 모든 것을 나눈다.", "authK":"플라톤",
 		"descripE":"Friends have all things in common.", "authE":"Plato", "category":"friend"},
 	{ "id":23, "descripK":"친구의 충고는 신중하게 곱씹어 받아들여야 한다. 옳건 그르건, 자신의 생각을 포기하고 친구의 충고를 무조건 따라서는 안된다.", "authK":"피에르 샤롱",
-		"descripE":"The advice of friends must be received with a judicious reserve; we must not give ourselves up to it and follow it blindly, whether right or wrong.", "authE":"Pierre Charron", "category":"friend"},
+		"descripE":"The advice of friends must be received with a judicious reserve, we must not give ourselves up to it and follow it blindly, whether right or wrong.", "authE":"Pierre Charron", "category":"friend"},
 	{ "id":24, "descripK":"아첨꾼은 나보다 열등하거나 그런 척 하는 친구이다.", "authK":"아리스토텔레스",
 		"descripE":"A flatterer is a friend who is your inferior, or pretends to be so.", "authE":"Aristotle", "category":"friend"},
 	{ "id":25, "descripK":"운명의 기복은 친구의 신뢰를 시험한다.", "authK":"키케로",
@@ -58,5 +58,5 @@
 	{ "id":29, "descripK":"낡은 외투를 그냥 입고 새 책을 사라.", "authK":"오스틴 펠프스",
 		"descripE":"Wear the old coat and buy the new book.", "authE":"Austin Phelps", "category":"book"},
 	{ "id":30, "descripK":"나는 삶을 변화시키는 아이디어를 항상 책에서 얻었다.", "authK":"벨 훅스",
-		"descripE":"Life-transforming ideas have always come to me through books.", "authE":"Bell Hooks", "category":"book"},
+		"descripE":"Life-transforming ideas have always come to me through books.", "authE":"Bell Hooks", "category":"book"}
 ]
