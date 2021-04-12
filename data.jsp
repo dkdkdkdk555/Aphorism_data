@@ -4,7 +4,7 @@
 	{ "id":2, "descripK":"멀리 있는 사람을 사랑하기는 쉽다. 가까이 있는 사람을 사랑하기란 항상 쉬운 것만은 아니다. 기아로부터 사람들을 구제하기 위해서 한 움큼의 쌀을 주는 것이 자신의 집에 있는 이의 외로움과 고통을 덜어주는 것보다 더 쉽다. 당신의 집에 사랑을 가져다 주어라. 가정이야말로 우리의 사랑이 시작되는 곳이어야 하기 때문이다.", "authK":"마더 테레사",
 		"descripE":"It is easy to love the people far away. It is not always easy to love those close to us. It is easier to give a cup of rice to relieve hunger than to relieve the loneliness and pain of someone unloved in our home. Bring love into your home for this is where our love for each other must start.", "authE":"Mother Teresa", "category":"love"},
 	{ "id":3, "descripK":"사랑에 의해 행해지는 것은 언제나 선악을 초월한다.", "authK":"프레드리히 나체",
-		"descripE":"What is done out of love always takes place beyond good and evil.", "authK":"Friedrich Nietzsche", "category":"love"},
+		"descripE":"What is done out of love always takes place beyond good and evil.", "authE":"Friedrich Nietzsche", "category":"love"},
 	{ "id":4, "descripK":"겁쟁이는 사랑을 드러낼 능력이 없다. 사랑은 용기있는 자의 특권이다.", "authK":"마하트마 간디",
 		"descripE":"A coward is incapable of exhibiting love, it is the prerogative of the brave.", "authE":"Mahatma Gandhi", "category":"love"},
 	{ "id":5, "descripK":"사랑은 눈으로 보지 않고 마음으로 보는 거지.", "authK":"윌리엄 셰익스피어",
