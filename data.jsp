@@ -6,7 +6,7 @@
 	{ "id":3, "descripK":"사랑에 의해 행해지는 것은 언제나 선악을 초월한다.", "authK":"프레드리히 나체",
 		"descripE":"What is done out of love always takes place beyond good and evil.", "authK":"Friedrich Nietzsche", "category":"love"},
 	{ "id":4, "descripK":"겁쟁이는 사랑을 드러낼 능력이 없다. 사랑은 용기있는 자의 특권이다.", "authK":"마하트마 간디",
-		"descripE":"A coward is incapable of exhibiting love; it is the prerogative of the brave.", "authE":"Mahatma Gandhi", category:"love"},
+		"descripE":"A coward is incapable of exhibiting love, it is the prerogative of the brave.", "authE":"Mahatma Gandhi", "category":"love"},
 	{ "id":5, "descripK":"사랑은 눈으로 보지 않고 마음으로 보는 거지.", "authK":"윌리엄 셰익스피어",
 		"descripE":"Love looks not with the eyes, but with the mind.", "authE":"William Shakespeare", "category":"love"},
 	{ "id":6, "descripK":"나는 젊음이요, 나는 기쁨이요, 나는 알에서 갓 깬 작은 새다.", "authK":"제임스 M. 배리",
