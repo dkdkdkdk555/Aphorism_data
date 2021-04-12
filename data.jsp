@@ -59,6 +59,4 @@
 		"descripE":"Wear the old coat and buy the new book.", "authE":"Austin Phelps", "category":"book"},
 	{ "id":30, "descripK":"나는 삶을 변화시키는 아이디어를 항상 책에서 얻었다.", "authK":"벨 훅스",
 		"descripE":"Life-transforming ideas have always come to me through books.", "authE":"Bell Hooks", "category":"book"},
-	{ "id":, "descripK":"", "authK":"",
-		"descripE":"", "authE":"", "category":""},
 ]
