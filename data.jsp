@@ -164,7 +164,7 @@
 	{ "id":82, "descripK":"장사는 음식을 파는 게 아니라 자존심을 파는 거예요", "authK":"백종원", 
 		"descripE":"Business isn't selling food, it's selling pride.", "authE":"JongWon Paik, Entrepreneur in korea", "category":"business"},
 	{ "id":83, "descripK":"처음부터 아는 사람은 없다.", "authK":"마크 저커버그", 
-		"descripE":"No one does when they begin", "authE":"Mark Zuckerberg", "category":"study"},
+		"descripE":"No one knows when they begin", "authE":"Mark Zuckerberg", "category":"study"},
 	{ "id":84, "descripK":"아이디어는 처음부터 완전한 형태로 떠오르지 않는다.", "authK":"마크 저커버그", 
 		"descripE":"Ideas don't come out fully formed", "authE":"Mark Zuckerberg", "category":"business"},
 	{ "id":85, "descripK":"일을 하는 동안 아이디어는 보다 명확해진다, 그러니 바로 시작해야 한다.", "authK":"마크 저커버그", 
