@@ -264,7 +264,7 @@
 	{ "id":132, "descripK":"20대에는 의지, 30대에는 기지, 40대에는 판단이 지배한다.", "authK":"벤자민 프랭클린",
 		"descripE":"At 20 years of age the will reigns, at 30 the wit, at 40 the judgment", "authE":"Benjamin Franklin", "category":"life"},
 	{ "id":133, "descripK":"우리 모두 가장 신경 쓰이는 한 가지 자산의 지배하에 있다. 그건 시간이다.", "authK":"게리 바이너척",
-		"descripE":"We are in control of the one asset that we all give the most f**ks about, and that is time", "authE":"Gary Vaynerchuk", "category":"success", "kinda":"c"}.
+		"descripE":"We are in control of the one asset that we all give the most f**ks about, and that is time", "authE":"Gary Vaynerchuk", "category":"success", "kinda":"c"},
 	{ "id":134, "descripK":"역경은 누가 진정한 친구인지 가르쳐준다.", "authK":"로이스 맥마스터 부욜, 미국의 공상과학소설가",
 		"descripE":"Adversity does teach who your real friends are.", "authE":"Lois McMaster Bujold", "category":"friend"},
 	{ "id":135, "descripK":"사람이 친구를 사귀는 데는 분명한 과정이 하나 있는데, 매번 몇 시간에 걸쳐 이야기를 하고 이야기를 들어주는 것이다.", "authK":"레베카 웨스트",
