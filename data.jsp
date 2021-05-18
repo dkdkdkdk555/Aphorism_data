@@ -264,5 +264,27 @@
 	{ "id":132, "descripK":"20대에는 의지, 30대에는 기지, 40대에는 판단이 지배한다.", "authK":"벤자민 프랭클린",
 		"descripE":"At 20 years of age the will reigns, at 30 the wit, at 40 the judgment", "authE":"Benjamin Franklin", "category":"life"},
 	{ "id":133, "descripK":"우리 모두 가장 신경 쓰이는 한 가지 자산의 지배하에 있다. 그건 시간이다.", "authK":"게리 바이너척",
-		"descripE":"We are in control of the one asset that we all give the most f**ks about, and that is time", "authE":"Gary Vaynerchuk", "category":"success", "kinda":"c"}
+		"descripE":"We are in control of the one asset that we all give the most f**ks about, and that is time", "authE":"Gary Vaynerchuk", "category":"success", "kinda":"c"}.
+	{ "id":134, "descripK":"역경은 누가 진정한 친구인지 가르쳐준다.", "authK":"로이스 맥마스터 부욜, 미국의 공상과학소설가",
+		"descripE":"Adversity does teach who your real friends are.", "authE":"Lois McMaster Bujold", "category":"friend"},
+	{ "id":135, "descripK":"사람이 친구를 사귀는 데는 분명한 과정이 하나 있는데, 매번 몇 시간에 걸쳐 이야기를 하고 이야기를 들어주는 것이다.", "authK":"레베카 웨스트",
+		"descripE":"There was a definite process by which one made people into friends, and it involved talking to them and listening to them for hours at a time.", "authE":"Rebecca West", "category":"friend"},
+	{ "id":136, "descripK":"선물로 친구를 사지마라. 선물을 주지 않으면 그 친구의 사랑도 끝날 것이다.", "authK":"토마스 풀러",
+		"descripE":"Purchase not friends by gifts; when thou ceasest to give, such will cease to love.", "authE":"Thomas Fuller", "category":"friend"},
+	{ "id":137, "descripK":"나는 오늘 친구들을 찾아서 너무 행복하다. 그들은 내 머리속에 있다.", "authK":"커트 코베인",
+		"descripE":"I'm so happy because today I found my friends - they're in my head.", "authE":"Kurt Cobain", "category":"friend"},
+	{ "id":138, "descripK":"우정이라는 기계에 잘 정제된 예의라는 기름을 바르는 것은 현명하다.", "authK":"콜레트",
+		"descripE":"It is wise to apply the oil of refined politeness to the mechanisms of friendship.", "authE":"Colette", "category":"friend"},
+	{ "id":139, "descripK":"풍요 속에서는 친구들이 나를 알게 되고, 역경 속에서는 내가 친구를 알게 된다.", "authK":"존 철튼 콜린스",
+		"descripE":"In prosperity our friends know us; in adversity we know our friends.", "authE":"John Churton Collins", "category":"friend"},
+	{ "id":140, "descripK":"받아들일 자세만 되어 있다면 완벽함은 어디서나 발견할 수 있다.", "authK":"오카쿠라 가쿠조, 근대미술비평가",
+		"descripE":"Perfection can be found everywhere if you are prepared to accept it.", "authE":"Okakura Kakuzo", "category":"success"},
+	{ "id":141, "descripK":"만일 당신이 정말 훌륭한 경험을 쌓는다면, 사람들은 서로 그것에 관하여 말을 할 것입니다. 입소문이란 아주 강력하거든요.", "authK":"제프 베조스",
+		"descripE":"If you do build a great experience, customers tell each other about that. Word of mouth is very powerful", "authE":"Jeff Bezos", "category":"business", "kinda":"c"},
+	{ "id":142, "descripK":"누군가의 구름 속에서 무지개가 되도록 노력하라", "authK":"마야 안젤루",
+		"descripE":"Try to be a rainbow in someone's cloud.", "authE":"Maya Angelou", "category":"friend", "kinda":"c"},
+	{ "id":143, "descripK":"당신이 가지고 있는 브랜드는 당신이 방에 없을 때 사람들이 당신에 관하여 하는 말입니다.", "authK":"제프 베조스",
+		"descripE":"Your brand is what people say about you when you are not in the room.", "authE":"Jeff Bezos", "category":"business", "kinda":"c"},
+	{ "id":144, "descripK":"당신의 미소를 세상과 나누세요. 미소는 우정과 평화의 상징입니다.", "authK":"크리스티 브링클리",
+		"descripE":"Share your smile with the world. It's a symbol of friendship and peace.", "authE":"Christie Brinkley", "category":"friend"}
 ]
