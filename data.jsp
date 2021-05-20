@@ -286,5 +286,17 @@
 	{ "id":143, "descripK":"당신이 가지고 있는 브랜드는 당신이 방에 없을 때 사람들이 당신에 관하여 하는 말입니다.", "authK":"제프 베조스",
 		"descripE":"Your brand is what people say about you when you are not in the room.", "authE":"Jeff Bezos", "category":"business", "kinda":"c"},
 	{ "id":144, "descripK":"당신의 미소를 세상과 나누세요. 미소는 우정과 평화의 상징입니다.", "authK":"크리스티 브링클리",
-		"descripE":"Share your smile with the world. It's a symbol of friendship and peace.", "authE":"Christie Brinkley", "category":"friend"}
+		"descripE":"Share your smile with the world. It's a symbol of friendship and peace.", "authE":"Christie Brinkley", "category":"friend"},
+	{ "id":145, "descripK":"실행이 없는 아이디어는 가치가 없으며 아이디어가 없는 실행은 무의미하다.", "authK":"게리 바이너척",
+		"descripE":"Ideas are worthless without execution and execution is pointless without ideas", "authE":"Gary Vaynerchuk", "category":"business", "kinda":"c"},
+	{ "id":146, "descripK":"당신이 실패하고 사람들이 비웃는다면, 그들은 당신 시간을 들일 만한 가치가 없다. 무시하라.", "authK":"게리 바이너척",
+		"descripE":"If you fail and people laugh at you, they're not worth your time. Ignore them.", "authE":"Gary Vaynerchuk", "category":"business", "kinda":"c"},
+	{ "id":147, "descripK":"5분만 시간을 더 주시오. 책을 아직 다 읽지 못했습니다.", "authK":"안중근 의사",
+		"descripE":"Give me five more minutes, I haven't finished the book yet.", "authE":"Ahn Jung-geun, Korean independence activist", "category":"study"},
+	{ "id":148, "descripK":"그 무엇으로도 대체할 수 없는 존재가 되기 위해서는 늘 남달라야 한다.", "authK":"가브리엘(코코)샤넬",
+		"descripE":"In order to irreplaceable one must always be different.", "authE":"Cabrielle Coco Chanel", "category":"success"},
+	{ "id":149, "descripK":"고객 유지는 게임이다. 사업상의 게임은 얼마나 많은 고객을 확보할 수 있느냐가 아니라 얼마나 유지하느냐다.", "authK":"게리 바이너척",
+		"descripE":"Retention is the game. The game in business is not how much customers you can get, it's how many you can keep.", "authE":"Gary Vaynerchuk", "category":"business", "kinda":"c"},
+	{ "id":150, "descripK":"사랑은 유리다. 아무렇게 잡거나, 너무 꽉 잡으면 깨어진다.", "authK":"러시아 속담",
+		"descripE":"Love is glass. If you hold it too tightly, it breaks.", "authE":"Russian proverb", "category":"love"}
 ]
