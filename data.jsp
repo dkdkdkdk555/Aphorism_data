@@ -398,5 +398,15 @@
 	{ "id":199, "descripK":"집중력은 자신감과 갈망이 결합하여 생긴다.", "authK":"아놀드 파머",
 		"descripE":"Concentration comes out of a combination of confidence and hunger.", "authE":"Arnold Palmer", "category":"confidence"},
 	{ "id":200, "descripK":"남편을 만나기 전, 사랑에 몇 번 발을 들여놓은 적은 있었지만 사랑에 빠진 적은 없었다.", "authK":"리타 러드너, 미국의 영화배우이자 작가",
-		"descripE":"Before I met my husband, I'd never fallen in love, though I'd stepped in it a few times.", "authE":"Rita Rudner", "category":"love"}
+		"descripE":"Before I met my husband, I'd never fallen in love, though I'd stepped in it a few times.", "authE":"Rita Rudner", "category":"love"},
+	{ "id":201, "descripK":"낭비한 시간에 대한 후회는 더 큰 시간 낭비이다.", "authK":"메이슨 쿨리",
+		"descripE":"Regret for wasted time is more wasted time.", "authE":"Mason Cooley", "category":"life"},
+	{ "id":202, "descripK":"적나라한 진실만큼 불쾌한 노출은 드물다.", "authK":"아그네스 리플라이어",
+		"descripE":"There are few nudities so objectionable as the naked truth.", "authE":"Agnes Repplier", "category":"success"},
+	{ "id":203, "descripK":"한때 자신을 미소짓게 만들었던 것에 대해 절대 후회하지 마라.", "authK":"엠버 데커스",
+		"descripE":"Never regret something that once made you smile.", "authE":"Amber Deckers", "category":"life"},
+	{ "id":204, "descripK":"권력의 고통을 알려면 권력 있는 자들에게 가야한다. 권력을 기쁨을 알려면 권력을 추구하는 자들에게 가야 한다.", "authK":"찰스 칼렙 콜튼",
+		"descripE":"To know the pains of power, we must go to those who have it; to know its pleasures, we must go to those who are seeking it.", "authE":"Charles Caleb Colton", "category":"success"},
+	{ "id":205, "descripK":"한 권의 책을 읽음으로써 자신의 삶에서 새 시대를 본 사람이 너무나 많다.", "authK":"헨리 데이비드 소로우",
+		"descripE":"How many a man has dated a new era in his life from the reading of a book.", "authE":"Henry David Thoreau", "category":"study"}
 ]
