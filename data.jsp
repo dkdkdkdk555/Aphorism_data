@@ -408,5 +408,11 @@
 	{ "id":204, "descripK":"권력의 고통을 알려면 권력 있는 자들에게 가야한다. 권력을 기쁨을 알려면 권력을 추구하는 자들에게 가야 한다.", "authK":"찰스 칼렙 콜튼",
 		"descripE":"To know the pains of power, we must go to those who have it; to know its pleasures, we must go to those who are seeking it.", "authE":"Charles Caleb Colton", "category":"success"},
 	{ "id":205, "descripK":"한 권의 책을 읽음으로써 자신의 삶에서 새 시대를 본 사람이 너무나 많다.", "authK":"헨리 데이비드 소로우",
-		"descripE":"How many a man has dated a new era in his life from the reading of a book.", "authE":"Henry David Thoreau", "category":"study"}
+		"descripE":"How many a man has dated a new era in his life from the reading of a book.", "authE":"Henry David Thoreau", "category":"study"},
+	{ "id":206, "descripK":"사랑은 자신 이외에 다른 것도 존재한다는 사실을 어렵사리 깨닫는 것이다.", "authK":"아이리스 머독",
+		"descripE":"Love is the difficult realization that something other than oneself is real.", "authE":"Iris Murdoch", "category":"love"},
+	{ "id":207, "descripK":"모든 언행을 칭찬하는 자보다 결점을 친절하게 말해주는 친구를 가까이하라.", "authK":"소크라테스",
+		"descripE":"Think not those faithful who praise all your words and actions; but those who kindly reprove your faults.", "authE":"Socrates", "category":"friend"},
+	{ "id":208, "descripK":"나에게 말하라... 그러면 나는 잊을 것이요, 나를 가르치라... 그러면 나는 배울 것이요, 나를 열중시키라... 그러면 나는 기억할 것이다.", "authK":"벤자민 프랭클린",
+		"descripE":"Tell me and I forget. Teach me and I remember. Involve me and I learn.", "authE":"Benjamin Franklin", "category":"study"}
 ]
