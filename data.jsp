@@ -414,5 +414,15 @@
 	{ "id":207, "descripK":"모든 언행을 칭찬하는 자보다 결점을 친절하게 말해주는 친구를 가까이하라.", "authK":"소크라테스",
 		"descripE":"Think not those faithful who praise all your words and actions; but those who kindly reprove your faults.", "authE":"Socrates", "category":"friend"},
 	{ "id":208, "descripK":"나에게 말하라... 그러면 나는 잊을 것이요, 나를 가르치라... 그러면 나는 배울 것이요, 나를 열중시키라... 그러면 나는 기억할 것이다.", "authK":"벤자민 프랭클린",
-		"descripE":"Tell me and I forget. Teach me and I remember. Involve me and I learn.", "authE":"Benjamin Franklin", "category":"study"}
+		"descripE":"Tell me and I forget. Teach me and I remember. Involve me and I learn.", "authE":"Benjamin Franklin", "category":"study"},
+	{ "id":209, "descripK":"우리가 미래에 갖고 싶어하는 것을 제한하는 것은 상상력뿐이다.", "authK":"찰스 F. 케터링",
+		"descripE":"Our imagination is the only limit to what we can hope to have in the future.", "authE":"Charles F. Kettering", "category":"success"},
+	{ "id":210, "descripK":"강한 신념이야말로 거짓보다 더 위험한 진리의 적이다.", "authK":"프레드리히 니체",
+		"descripE":"Convictions are more dangerous enemies of truth than lies.", "authE":"Friedrich Nietzsche", "category":"life"},
+	{ "id":211, "descripK":"논쟁하는 자가 아니라 논쟁을 피하는 자를 두려워하라.", "authK":"마리 폰 에브너 에셴바흐",
+		"descripE":"Fear not those who argue but those who dodge.", "authE":"Marie Ebner von Eschenbach", "category":"life"},
+	{ "id":212, "descripK":"책 없는 방은 영혼 없는 육체와도 같다.", "authK":"키케로",
+		"descripE":"A room without books is like a body without a soul.", "authE":"Cicero", "category":"study"},
+	{ "id":213, "descripK":"천재성은 인종이 없고 강인함에는 남녀가 없으며 용기에는 한계가 없다", "authK":"영화 히든피겨스 중",
+		"descripE":"Genius has no race, Strength has no gender, Courage has no limit", "authE":"Hiddenfigures(2016)", "category":"confidence"}
 ]
