@@ -424,5 +424,15 @@
 	{ "id":212, "descripK":"책 없는 방은 영혼 없는 육체와도 같다.", "authK":"키케로",
 		"descripE":"A room without books is like a body without a soul.", "authE":"Cicero", "category":"study"},
 	{ "id":213, "descripK":"천재성은 인종이 없고 강인함에는 남녀가 없으며 용기에는 한계가 없다", "authK":"영화 히든피겨스 중",
-		"descripE":"Genius has no race, Strength has no gender, Courage has no limit", "authE":"Hiddenfigures(2016)", "category":"confidence"}
+		"descripE":"Genius has no race, Strength has no gender, Courage has no limit", "authE":"Hiddenfigures(2016)", "category":"confidence"},
+	{ "id":214, "descripK":"성격으로 문을 열 수는 있으나 품성만이 열린 문을 그대로 유지할 수 있다.", "authK":"엘머 G. 레터맨",
+		"descripE":"Personality can open doors, but only character can keep them open.", "authE":"Elmer G. Letterman", "category":"life"},
+	{ "id":215, "descripK":"승리는 가장 끈기있는 자에게 돌아간다.", "authK":"나폴레옹 보나파르트",
+		"descripE":"Victory belongs to the most persevering.", "authE":"Napoleon Bonaparte", "category":"success"},
+	{ "id":216, "descripK":"순간을 사랑하라. 그러면 그 순간의 에너지가 모든 경계를 넘어 퍼져나갈 것이다.", "authK":"코리타 켄트",
+		"descripE":"Love the moment, and the energy of that moment will spread beyond all boundaries.", "authE":"Corita Kent", "category":"success"},
+	{ "id":217, "descripK":"프론트 앤드의 디자인을 그저 '장식'으로 치부한다면 어떤 웹사이트의 성공도 위협받는다.", "authK":"커트 클로닌저",
+		"descripE":"To dismiss front-end design as mere 'icing' is to jeopardize the success of any site.", "authE":"Curt Cloninger", "category":"study"},
+	{ "id":218, "descripK":"우리는 우주에 흔적을 남기기 위해 여기에 있다, 나는 우주에 충격을 남기고 싶다. 안 그러면, 도대체 왜 여기 살고 있을 이유가 뭔가?", "authK":"스티브 잡스, -1980, 매킨토시 개발팀을 독려하며",
+		"descripE":"We're here to puts a dent in the universe, I want to put a ding in the universe. Otherwise, why else even be here?", "authE":"Steve Jobs", "category":"success" "kinda":"c"}
 ]
