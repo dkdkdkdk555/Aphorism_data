@@ -434,5 +434,13 @@
 	{ "id":217, "descripK":"프론트 앤드의 디자인을 그저 '장식'으로 치부한다면 어떤 웹사이트의 성공도 위협받는다.", "authK":"커트 클로닌저",
 		"descripE":"To dismiss front-end design as mere 'icing' is to jeopardize the success of any site.", "authE":"Curt Cloninger", "category":"study"},
 	{ "id":218, "descripK":"우리는 우주에 흔적을 남기기 위해 여기에 있다, 나는 우주에 충격을 남기고 싶다. 안 그러면, 도대체 왜 여기 살고 있을 이유가 뭔가?", "authK":"스티브 잡스, -1980, 매킨토시 개발팀을 독려하며",
-		"descripE":"We're here to puts a dent in the universe, I want to put a ding in the universe. Otherwise, why else even be here?", "authE":"Steve Jobs", "category":"success" "kinda":"c"}
+		"descripE":"We're here to puts a dent in the universe, I want to put a ding in the universe. Otherwise, why else even be here?", "authE":"Steve Jobs", "category":"success", "kinda":"c"},
+	{ "id":219, "descripK":"슬픔은 한결같은 사람에게 흔들림을 가르쳐준다.", "authK":"소포클레스",
+		"descripE":"Grief teaches the steadiest minds to waver.", "authE":"Sophocles", "category":"life"},
+	{ "id":220, "descripK":"진실을 말한다면 어떤 것도 기억할 필요가 없다.", "authK":"마크 트웨인",
+		"descripE":"If you tell the truth you don't have to remember anything.", "authE":"Mark Twain", "category":"life"},
+	{ "id":221, "descripK":"자신 있게 행동하세요, 비록 그러지 못하더라도.", "authK":"래리 엘리슨",
+		"descripE":"Act confident, even you're not.", "authE":"Larry Ellison", "category":"success", "kinda":"c"},
+	{ "id":222, "descripK":"혁신을 할 때는 모든 사람들이 당신을 미쳤다고 할 테니 그 말에 준비가 되어 있어야 합니다.", "authK":"래리 엘리슨",
+		"descripE":"When you innovate, you've got to be prepared for everyone telling you you're nuts.", "authE":"Larry Ellison", "category":"success", "kinda":"c" }
 ]
